@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="136bfdee-375d-4e6f-bf34-d9119689846f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sQa6bBbFGQFBvfu535EYC4t2Iw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/Cactus" />
+      <recent name="$PROJECT_DIR$/assets/Bird" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/Other" />
+      <recent name="$PROJECT_DIR$/assets/Robot/run" />
+      <recent name="$PROJECT_DIR$/assets/Robot/down" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.game">
+    <configuration name="cropper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chrome-Dino-Runner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cropper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="robogame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.cropper" />
+      <item itemvalue="Python.game" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.cropper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="136bfdee-375d-4e6f-bf34-d9119689846f" name="Default Changelist" comment="" />
+      <created>1620807092579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620807092579</updated>
+      <workItem from="1620807094142" duration="2736000" />
+      <workItem from="1621183405508" duration="5620000" />
+      <workItem from="1621199254928" duration="2304000" />
+      <workItem from="1621245038291" duration="429000" />
+      <workItem from="1621257859350" duration="11980000" />
+      <workItem from="1622882956691" duration="5510000" />
+      <workItem from="1622889874556" duration="59000" />
+      <workItem from="1622889936187" duration="186000" />
+      <workItem from="1622890126223" duration="4364000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1622896992268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622896992268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="202" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622890146370">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="202" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/36.23.1404.877/1440.23.1680.1027@36.23.1404.877" timestamp="1622890146370" />
+    <state x="202" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/36.23.1404.877@36.23.1404.877" timestamp="1620807311528" />
+    <state x="429" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622886641498">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="429" y="261" key="#com.intellij.fileTypes.FileTypeChooser/36.23.1404.877/1440.23.1680.1027@36.23.1404.877" timestamp="1622886641498" />
+    <state x="429" y="261" key="#com.intellij.fileTypes.FileTypeChooser/36.23.1404.877@36.23.1404.877" timestamp="1621270836153" />
+    <state width="1362" height="224" key="GridCell.Tab.0.bottom" timestamp="1622896851720">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1362" height="224" key="GridCell.Tab.0.bottom/36.23.1404.877/1440.23.1680.1027@36.23.1404.877" timestamp="1622896851720" />
+    <state width="1362" height="224" key="GridCell.Tab.0.bottom/36.23.1404.877@36.23.1404.877" timestamp="1621324016422" />
+    <state width="1362" height="224" key="GridCell.Tab.0.center" timestamp="1622896851720">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1362" height="224" key="GridCell.Tab.0.center/36.23.1404.877/1440.23.1680.1027@36.23.1404.877" timestamp="1622896851720" />
+    <state width="1362" height="224" key="GridCell.Tab.0.center/36.23.1404.877@36.23.1404.877" timestamp="1621324016421" />
+    <state width="1362" height="224" key="GridCell.Tab.0.left" timestamp="1622896851719">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1362" height="224" key="GridCell.Tab.0.left/36.23.1404.877/1440.23.1680.1027@36.23.1404.877" timestamp="1622896851719" />
+    <state width="1362" height="224" key="GridCell.Tab.0.left/36.23.1404.877@36.23.1404.877" timestamp="1621324016421" />
+    <state width="1362" height="224" key="GridCell.Tab.0.right" timestamp="1622896851720">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state width="1362" height="224" key="GridCell.Tab.0.right/36.23.1404.877/1440.23.1680.1027@36.23.1404.877" timestamp="1622896851720" />
+    <state width="1362" height="224" key="GridCell.Tab.0.right/36.23.1404.877@36.23.1404.877" timestamp="1621324016422" />
+    <state x="239" y="91" key="SettingsEditor" timestamp="1622897424155">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="239" y="91" key="SettingsEditor/36.23.1404.877/1440.23.1680.1027@36.23.1404.877" timestamp="1622897424155" />
+    <state x="468" y="191" width="549" height="524" key="StructurePopup" timestamp="1621279213913">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="468" y="191" width="549" height="524" key="StructurePopup/36.23.1404.877@36.23.1404.877" timestamp="1621279213913" />
+    <state x="338" y="192" key="Vcs.Push.Dialog.v2" timestamp="1622897053760">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="338" y="192" key="Vcs.Push.Dialog.v2/36.23.1404.877/1440.23.1680.1027@36.23.1404.877" timestamp="1622897053760" />
+    <state x="560" y="353" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1622897049818">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="560" y="353" key="git4idea.remote.GitConfigureRemotesDialog/36.23.1404.877/1440.23.1680.1027@36.23.1404.877" timestamp="1622897049818" />
+    <state x="403" y="208" width="670" height="676" key="search.everywhere.popup" timestamp="1622890004542">
+      <screen x="36" y="23" width="1404" height="877" />
+    </state>
+    <state x="403" y="208" width="670" height="676" key="search.everywhere.popup/36.23.1404.877/1440.23.1680.1027@36.23.1404.877" timestamp="1622890004542" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Chrome_Dino_Runner$Chrome_Dino_Runner.coverage" NAME="Chrome-Dino-Runner Coverage Results" MODIFIED="1620807233463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/robogame$game.coverage" NAME="game Coverage Results" MODIFIED="1622895353782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chrome_Dino_Runner$chromedino.coverage" NAME="chromedino Coverage Results" MODIFIED="1622889702099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Chrome_Dino_Runner$cropper.coverage" NAME="cropper Coverage Results" MODIFIED="1621279755686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
