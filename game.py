@@ -27,6 +27,7 @@ for frame in range(718):
     else:
         num = str(frame)
     RUNNING.append(pygame.image.load(os.path.join("assets/robot/run", "RobotRun." + num + ".png")))
+
 JUMPING = pygame.image.load(os.path.join('assets/robot/run', 'RobotRun.021.png'))
 DUCKING = []
 for frame in range(9, 121):
@@ -273,6 +274,10 @@ def main():
             if player.dino_rect.colliderect(obstacle.rect):
                 pygame.time.delay(2000)
                 death_count += 1
+
+                f = open("best_score.txt", "r")
+                if points > int(f.readline()):
+                    open("best_score.txt", "w").write(str(points))
                 menu(death_count)
 
         cloud.draw(SCREEN)
@@ -292,10 +297,10 @@ def menu(death_count):
         font = pygame.font.Font('freesansbold.ttf', 30)
 
         if death_count == 0:
-            text = font.render('Ну давай уже начинай. Жми', True, (0, 0,
+            text = font.render('Для старта нажмите любую клавишу', True, (0, 0,
                                                                    0))
         elif death_count > 0:
-            text = font.render('Еще разок? Жми', True, (0, 0,
+            text = font.render('Игра окончена? Для перезапуска нажмите любую клавишу.', True, (0, 0,
                                                         0))
             score = font.render('Очки: ' + str(points), True, (0,
                                                                0, 0))
